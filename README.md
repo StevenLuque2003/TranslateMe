@@ -34,8 +34,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I had trouble with implementing the FireBase and thinking of a UI that looks good on the eyes. 
 ## License
 
     Copyright [yyyy] [name of copyright owner]
