@@ -37,7 +37,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 I had trouble with implementing the FireBase and thinking of a UI that looks good on the eyes. 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Steven Luque]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
