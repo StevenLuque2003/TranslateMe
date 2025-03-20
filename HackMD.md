@@ -1,0 +1,1 @@
+The app needed to be user friendly and that meant have an UI that will not push the user away. Figuring out how to implement the FireBase was cool and very useful. Something I want to try adding later is voice input translation as it will be a good challenge and will teach me more about coding. 
